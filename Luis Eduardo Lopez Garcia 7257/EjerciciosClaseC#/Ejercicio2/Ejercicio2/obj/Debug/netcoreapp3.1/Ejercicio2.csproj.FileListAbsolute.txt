@@ -1,0 +1,16 @@
+D:\Topicos de programacion\EjerciciosClaseC#\Ejercicio2\Ejercicio2\bin\Debug\netcoreapp3.1\Ejercicio2.exe
+D:\Topicos de programacion\EjerciciosClaseC#\Ejercicio2\Ejercicio2\bin\Debug\netcoreapp3.1\Ejercicio2.deps.json
+D:\Topicos de programacion\EjerciciosClaseC#\Ejercicio2\Ejercicio2\bin\Debug\netcoreapp3.1\Ejercicio2.runtimeconfig.json
+D:\Topicos de programacion\EjerciciosClaseC#\Ejercicio2\Ejercicio2\bin\Debug\netcoreapp3.1\Ejercicio2.runtimeconfig.dev.json
+D:\Topicos de programacion\EjerciciosClaseC#\Ejercicio2\Ejercicio2\bin\Debug\netcoreapp3.1\Ejercicio2.dll
+D:\Topicos de programacion\EjerciciosClaseC#\Ejercicio2\Ejercicio2\bin\Debug\netcoreapp3.1\Ejercicio2.pdb
+D:\Topicos de programacion\EjerciciosClaseC#\Ejercicio2\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.csproj.AssemblyReference.cache
+D:\Topicos de programacion\EjerciciosClaseC#\Ejercicio2\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.Form1.resources
+D:\Topicos de programacion\EjerciciosClaseC#\Ejercicio2\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.csproj.GenerateResource.cache
+D:\Topicos de programacion\EjerciciosClaseC#\Ejercicio2\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Topicos de programacion\EjerciciosClaseC#\Ejercicio2\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.AssemblyInfoInputs.cache
+D:\Topicos de programacion\EjerciciosClaseC#\Ejercicio2\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.AssemblyInfo.cs
+D:\Topicos de programacion\EjerciciosClaseC#\Ejercicio2\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.csproj.CoreCompileInputs.cache
+D:\Topicos de programacion\EjerciciosClaseC#\Ejercicio2\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.dll
+D:\Topicos de programacion\EjerciciosClaseC#\Ejercicio2\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.pdb
+D:\Topicos de programacion\EjerciciosClaseC#\Ejercicio2\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.genruntimeconfig.cache
